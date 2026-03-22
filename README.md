@@ -17,10 +17,6 @@ tests, bootstrap analysis, and interactive visualizations.
 > **Course:** Statistical Computing, Grand Valley State University
 
 ---
-
-## Live Report
-
- **[View Full Interactive Report](https://cece15.github.io/Gun-Violence-Poverty-Analysis/)**
 >
 >## Live Pages
 
