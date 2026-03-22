@@ -13,7 +13,7 @@ U.S. states, combining **American Community Survey (ACS) census data** with the
 **Gun Violence Archive** to analyze 100,000+ incidents over 10 years using permutation
 tests, bootstrap analysis, and interactive visualizations.
 
-> **Authors:** Cynthia Mutua 
+> **Authors:** Cynthia Mutua & Kate Juma
 > **Course:** Statistical Computing, Grand Valley State University
 
 ---
