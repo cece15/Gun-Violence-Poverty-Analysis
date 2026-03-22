@@ -13,7 +13,7 @@ U.S. states, combining **American Community Survey (ACS) census data** with the
 **Gun Violence Archive** to analyze 100,000+ incidents over 10 years using permutation
 tests, bootstrap analysis, and interactive visualizations.
 
-> **Authors:** Cynthia Mutua *(Primary contributor)* · Kate Wema Juma
+> **Authors:** Cynthia Mutua 
 > **Course:** Statistical Computing, Grand Valley State University
 
 ---
@@ -210,10 +210,6 @@ heatmap (Fig 5), U.S. choropleth map (Fig 6), animated bar chart (Fig 8),
 permutation tests (Figs 9 & 11), bootstrap analysis (Fig 12, Table 8),
 interactive plotly visualizations, report writing (data cleaning,
 statistical analysis, bootstrap sections)
-
-**Kate Wema Juma** — Data dictionary (ACS dataset), summary tables (Tables 1 & 2),
-ACS missingness analysis (Fig 1), date/time processing, introduction and
-conclusion writing, code organization
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cynthia%20Mutua-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/cynthia-mutua)
 [![GitHub](https://img.shields.io/badge/GitHub-cece15-181717?style=flat&logo=github)](https://github.com/cece15)
